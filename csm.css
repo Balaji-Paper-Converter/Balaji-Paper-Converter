@@ -51,7 +51,7 @@ margin:0.5em;
 color:brown;
 }
 
-.pushcrew-chrome-style-notification pushcrew-chrome-style-notification-safari
+.pushcrew-chrome-style-notification-safari 
 {
-    left:0px
+    left:0px!important;
 }
